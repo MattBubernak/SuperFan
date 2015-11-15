@@ -150,3 +150,12 @@ i {
 	font-weight: 300;
 	letter-spacing: 1px;
 }
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+#black-section {
+    width: 100%;
+    background-color: #232323;
+}
